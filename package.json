@@ -1,0 +1,23 @@
+{
+  "name": "json-server-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve-json": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apollo013/json-server-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Apollo013/json-server-demo/issues"
+  },
+  "homepage": "https://github.com/Apollo013/json-server-demo#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
