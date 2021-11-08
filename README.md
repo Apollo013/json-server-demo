@@ -8,7 +8,9 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### Use the browser address bar to test the different scenarios...
-To return a list of all products, enter [http://localhost:3000/products](http://localhost:3000/products)
+
+| Description | url |
+|To return a list of all products | [http://localhost:3000/products](http://localhost:3000/products) |
 To return a single product (id=1), enter [http://localhost:3000/products/1](http://localhost:3000/products/1)
 To filter a list of products by the category 'electronics', enter [http://localhost:3000/products?category=electronics](http://localhost:3000/products?category=electronics)
 To filter a list of products by the category 'electronics' and the 'type' key inside the nested 'discount' object, enter [http://localhost:3000/products?category=electronics&discount.type=shipping](http://localhost:3000/products?category=electronics&discount.type=shipping)
