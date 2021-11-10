@@ -21,4 +21,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 |To return a list of all products within a 'price' range | [http://localhost:3000/products?price_gte=2000&price_lte=6000](http://localhost:3000/products?price_gte=2000&price_lte=6000) |
 |To return a list of all products where 'category' is not equal to books | [http://localhost:3000/products?category_ne=books](http://localhost:3000/products?category_ne=books) |
 |To return a list of all products where 'category' begins with the letter 'f' | [http://localhost:3000/products?category_like=^f](http://localhost:3000/products?category_like=^f) |
+|To return a list of all products where 'in' can be found (Full Text Search) | [http://localhost:3000/products?q=in](http://localhost:3000/products?q=in) |
 
