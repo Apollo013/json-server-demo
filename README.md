@@ -7,7 +7,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### Use the browser address bar to test the different scenarios...
+### Use your browser / Postman to test the different scenarios...
 
 | Description | Url |
 | ---- | ---- |
